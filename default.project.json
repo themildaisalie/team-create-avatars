@@ -1,0 +1,8 @@
+{
+  "name": "TeamCreateHats",
+  "tree": {
+    "$className": "DataModel",
+
+    "$path": "src"
+  }
+}

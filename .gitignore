@@ -1,11 +1,6 @@
 # Project place file
-/team-create-hats.rbxlx
-/build.rbxlx
+/TeamCreateHats.rbxlx
 
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
-
-/roblox.toml
-
-/sourcemap.json
